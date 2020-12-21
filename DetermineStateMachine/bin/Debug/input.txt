@@ -1,0 +1,8 @@
+;0;1
+s;p;c0,m,c
+p;p;m,c0
+m;m;p
+c;c;m2
+m2;m2;c
+c0;c1;
+c1;;c
