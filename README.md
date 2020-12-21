@@ -1,7 +1,7 @@
 # DetermineStateMachine
 algorithm for determining a finite state machine C#
 
-# The [algoritm](https://github.com/Aram-Osipyan/DetermineStateMachine/blob/master/DetermineStateMachine/Program.cs)  
+# The [algorithm](https://github.com/Aram-Osipyan/DetermineStateMachine/blob/master/DetermineStateMachine/Program.cs)  
 
 # An example of the input file :
 
@@ -15,7 +15,7 @@ m2;m2;c
 c0;c1;
 c1;;c
 ```
-# An example of the ouput :
+# An example of the output :
 ```
 f(s,0) = Q0
 f(s,1) = Q1
